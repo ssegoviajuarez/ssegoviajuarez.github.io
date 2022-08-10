@@ -1,7 +1,7 @@
 ## Welcome to ssegoviajuarez personal page
 
 
-https://github.com/ssegoviajuarez/ssegoviajuarez.github.io/00_welcome.html
+https://github.com/ssegoviajuarez/ssegoviajuarez.github.io/00_welcome
 
 
 You can use the [editor on GitHub](https://github.com/ssegoviajuarez/ssegoviajuarez.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
