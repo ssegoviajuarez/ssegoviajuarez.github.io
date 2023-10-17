@@ -1,1 +1,0 @@
-# ssegoviajuarez.github.io
